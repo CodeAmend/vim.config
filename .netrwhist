@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/codeamend/code/learn/react-graphql-express'
+let g:netrw_dirhist_9='/home/codeamend/code/learn'
+let g:netrw_dirhist_8='/home/codeamend/code/learn/sandbox'
+let g:netrw_dirhist_7='/home/codeamend/.config/nvim'
+let g:netrw_dirhist_6='/home/codeamend/code/learn/sandbox'
+let g:netrw_dirhist_5='/home/codeamend/code/learn/electron-sandbox'
+let g:netrw_dirhist_4='/home/codeamend/code/learn/node-concurrency-promise'
+let g:netrw_dirhist_3='/home/codeamend/code/learn/sandbox'
+let g:netrw_dirhist_2='/home/codeamend/.config/nvim'
+let g:netrw_dirhist_1='/home/codeamend/code/learn/sandbox'
